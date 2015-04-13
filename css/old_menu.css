@@ -23,7 +23,7 @@
 #navigation #apps { margin-left:-10px; margin-top: 10px; }
 #navigation #apps ul{text-align: center;}
 #navigation .app-icon{ height: 1em;width: 1em; }
-#navigation a span{ display: block; font-size: 11px; }
+#navigation a span{ display: block; font-size: 11px; white-space: normal;word-break: break-all;}
 
 
 /***********************************************************
@@ -45,7 +45,7 @@
 
 table.multiselect thead{width: 76% !important; left: 24.3% !important; margin: 0px !important; }
 #slideshow{z-index: 5000 !important;}
-#usersearchform {right: 0px; !important}
+#usersearchform {right: 0px !important;}
 
 /***********************************************************
 *
