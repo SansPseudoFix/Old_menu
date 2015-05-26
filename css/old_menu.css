@@ -1,16 +1,16 @@
 @media screen and (min-width: 1100px){
 
 #expanddiv {background-color: #1d2d44;}
-#app-navigation + #app-content #controls{width: 74.2% !important;left: 24.3% !important;}
+#app-navigation + #app-content #controls{width: 77.2% !important;left: 21.9% !important;}
 #content {margin-top: 0px;}
-#content-wrapper {padding-left: 6% !important;width: 100% !important;}
+#content-wrapper {padding-left: 3% !important;width: 100% !important;}
 #navigation{
     background-color: #1d2d44;
     visibility:visible;
     display: block !important;
     position:fixed !important;
     bottom:0px;
-    width: 6% !important;
+    width: 3% !important;
     top:45px;
     max-height: 100% !important;
     margin-top:0px !important;
@@ -23,7 +23,7 @@
 #navigation #apps { margin-left:-10px; margin-top: 10px; }
 #navigation #apps ul{text-align: center;}
 #navigation #apps ul li{width: 100%;}
-#navigation .app-icon{ height: 1em;width: 1em; }
+#navigation .app-icon{ height: 2em;width: 2em; }
 #navigation a span{ display: none; /*font-size: 11px; white-space: normal;word-break: break-all;*/}
 
 	/* Tooltips nav */
@@ -34,12 +34,10 @@
 	height: 2em;
 	float: right;
 	position: fixed;
-	left: 7%;
-	/*height: 3.5em;*/
-	
-	/*margin-top: -2em;*/
+	left: 4%;
 	background: #1d2d44;
 	color: #fff;
+	border-radius: 0px 3px 3px 0px;
 }
 	
 #navigation #apps li span:before {
@@ -68,12 +66,13 @@
 /* /oc 7 */
   
 #app-navigation{width: 19.5% !important;}
+#controls{left: 3%; width: 97%;}
 #bookmark_settings {width:19.5% !important;}
 .bookmarks_list, #firstrun {left:27% !important;}
 #navigation .wrapper {margin: auto;}
 #header .icon-caret {display:none;}
 
-table.multiselect thead{width: 76% !important; left: 24.3% !important; margin: 0px !important; }
+table.multiselect thead{width: 77.2% !important; left: 21.9% !important; margin: 0px !important; }
 #slideshow{z-index: 5000 !important;}
 #usersearchform {right: 0px !important;}
 
