@@ -1,3 +1,6 @@
+This app will not be upgraded anymore. Please consider using [Direct Menu](https://apps.owncloud.com/content/show.php/Direct+Menu?content=169148) instead.
+===
+
 Old Menu
 ===========
 
