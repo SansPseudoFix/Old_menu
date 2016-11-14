@@ -1,3 +1,7 @@
+This app will not be upgraded anymore. Please consider using [Direct Menu](https://apps.owncloud.com/content/show.php/Direct+Menu?content=169148) instead.
+===
+
+
 ### 2015, 17 November (V 2.1.2)
 
 * Minor fix: ownCloud 7 users couldn't disable old menu app. This version downgrade required version from ``8.1`` to ``7``, but you may have some design issues if you run ownCloud < 8.1.
